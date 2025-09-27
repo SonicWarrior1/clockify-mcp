@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server that provides integration with the Clockif
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/SonicWarrior1/clockify-mcp
    cd mcp
    ```
 
